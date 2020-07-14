@@ -1,0 +1,4 @@
+Write a program in Java which implements interface Student which has
+two methods Display_Grade and Atrendance for PG_Students and UG_Students
+(PG_Students and UG_Students are two different classes for Post Graduate and
+Under Graduate students respectively).
